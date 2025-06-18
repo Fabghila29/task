@@ -1,0 +1,27 @@
+.Navbar{
+    display: flex;
+    width: 100%;
+    height: 8%;
+    gap: 20%;
+
+    grid-template-rows: 10px;
+    align-items: center;
+    justify-content: space-between;
+    justify-self: center;
+    padding-inline: 20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2rem;
+    font-weight: 300;
+    border-bottom: solid gray 0.5px;
+    
+}
+
+.Navbar-link{
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+    align-items: center;
+}
+
+/* 12345678Qa! */

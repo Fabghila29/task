@@ -1,0 +1,45 @@
+.Home{
+    text-align: center;
+    font-size: 15rem;
+    font-weight: 700;
+    padding: 2rem 1rem;
+    
+
+}
+
+.Landing-duo{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+
+    padding-top: 5%;
+    
+}
+.Login-welcome{
+    font-size: 10rem;
+    
+}
+
+.Login-form{
+    width: 30vh;
+}
+
+
+.Info-button{
+    
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 2rem;
+    border: none;
+    border-radius: 10%;
+    padding: 10px 20px;
+    color: white;
+    background-color: #0d6efd;
+    
+}
+
+
+

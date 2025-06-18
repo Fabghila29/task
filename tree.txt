@@ -1,0 +1,35 @@
+└── src/
+    ├── App.css
+    ├── App.js
+    ├── App.test.js
+    ├── index.css
+    ├── index.js
+    ├── logo.svg
+    ├── reportWebVitals.js
+    ├── setupTests.js
+    ├── store/
+    │   ├── controlSlice.js
+    │   └── store.js
+    └── components/
+        ├── pages/
+        │   ├── 1Landing.css
+        │   ├── 1Landing.js
+        │   ├── 2Products.css
+        │   ├── 2Products.js
+        │   ├── 3Cart.css
+        │   └── 3Cart.js
+        └── features/
+            ├── 0Navbar.css
+            ├── 0Navbar.js
+            ├── 1Login.css
+            ├── 1Login.js
+            ├── 2Help.css
+            ├── 2Help.js
+            ├── 3ProductList.css
+            ├── 3ProductList.js
+            ├── 4ProductItem.css
+            ├── 4ProductItem.js
+            ├── 5CartList.css
+            ├── 5CartList.js
+            ├── 7notifications.css
+            └── 7Notifications.js

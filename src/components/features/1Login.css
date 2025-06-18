@@ -1,0 +1,37 @@
+.Home-registration{
+    display: grid;
+    
+    justify-content: center;
+    background-color:  rgb(240, 236, 236);
+    max-height: 50%;
+    padding-bottom: 50px;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    
+}
+
+.Home-input{
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    width: fit-content;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    justify-self: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+    
+
+}
+
+
+
+
+.Login-loginbutton{
+    margin-top: 10px;
+}
